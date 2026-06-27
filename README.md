@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Shreya 👋
 
-<!--
-**shreyadhital/shreyadhital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate at **SUNY Cortland** studying Biomedical Sciences and Mathematics with a strong interest in **bioinformatics**, **machine learning**, and computational approaches to biology.
 
-Here are some ideas to get you started:
+I'm passionate about using data to understand disease — from building predictive models to analyzing genomic data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I'm working on
+- A machine learning classification model for diabetes prediction
+- Building my bioinformatics toolkit (RNA-seq, DESeq2, R)
+
+## 🛠️ Skills
+- **Languages:** Python, R
+- **ML/Data:** scikit-learn, pandas, NumPy, matplotlib
+- **Bioinformatics:** DESeq2, NCBI GEO, genomic data analysis
+- **Tools:** Jupyter Notebook, Git
+
+## 📁 Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Diabetes Prediction Model](#) | ML classification model predicting diabetes onset from demographic features | Python, scikit-learn |
+
+## 📫 Contact
+- 📧 [shreya.dhital@cortland.edu](mailto:shreya.dhital@cortland.edu)
+
+---
+*Currently seeking research opportunities and internships in bioinformatics and computational biology.*
