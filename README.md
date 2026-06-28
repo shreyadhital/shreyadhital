@@ -21,7 +21,7 @@ I work at the intersection of **machine learning**, **biomedical research**, and
 ## 📁 Projects
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Diabetes Prediction Model](#) | ML classification models on NHANES data — published research | Python |
+| [Diabetes Prediction Model](https://github.com/shreyadhital/diabetes-prediction-nhanes) | ML classification models on NHANES data — published research | Python |
 | [RNA-seq Differential Expression](https://github.com/shreyadhital/rnaseq-differential-expression) | DESeq2 pipeline on human airway cells — volcano plot, heatmap, PCA | R, DESeq2 |
 
 ## 📫 Contact
