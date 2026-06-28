@@ -1,4 +1,4 @@
-# Hi, I'm Shreya 👋
+# Hi, I'm Shreya 
 
 I'm a senior at SUNY Cortland studying Biomedical Sciences and Mathematics, an aspiring Computational Biologist / Bioinformatician,
 with research experience in both wet lab biology and computational methods.
